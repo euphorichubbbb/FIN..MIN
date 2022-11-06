@@ -1,0 +1,481 @@
+@@ -1,116 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12f04f2e-1b7f-4cee-83cf-7640b2e16b69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ai8Th9cMvHP5b8VlsXAPMKCqJc" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\PycharmProjects\Flask-CS50-Project\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask-CS50-Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12f04f2e-1b7f-4cee-83cf-7640b2e16b69" name="Default Changelist" comment="" />
+      <created>1587207062714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587207062714</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Inspections" timestamp="1587271719223">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1587271719223" />
+    <state x="421" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587270582604">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="421" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1587270582604" />
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587439860536">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1587439860536" />
+    <state width="1345" height="244" key="GridCell.Tab.0.bottom" timestamp="1587454553366">
+    <state width="1345" height="274" key="GridCell.Tab.0.bottom" timestamp="1587502506392">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="244" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587454553366" />
+    <state width="1345" height="244" key="GridCell.Tab.0.center" timestamp="1587454553366">
+    <state width="1345" height="274" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587502506392" />
+    <state width="1345" height="274" key="GridCell.Tab.0.center" timestamp="1587502506391">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="244" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587454553366" />
+    <state width="1345" height="244" key="GridCell.Tab.0.left" timestamp="1587454553366">
+    <state width="1345" height="274" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587502506391" />
+    <state width="1345" height="274" key="GridCell.Tab.0.left" timestamp="1587502506390">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="244" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587454553366" />
+    <state width="1345" height="244" key="GridCell.Tab.0.right" timestamp="1587454553366">
+    <state width="1345" height="274" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587502506390" />
+    <state width="1345" height="274" key="GridCell.Tab.0.right" timestamp="1587502506392">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="244" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587454553366" />
+    <state width="1345" height="274" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587502506392" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1587447172275">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587447172275" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1587438226074">
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1587499563448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587438226074" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587499563448" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1587215229316">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    
+    #!/usr/bin/python
+# -*- coding: utf-8 -*-
+import urllib
+from flask import Flask, render_template, request, redirect, session, url_for
+from flask import Flask, render_template, request, redirect, session, \
+    url_for
+from flask_sqlalchemy import SQLAlchemy
+
+import json
+@@ -10,37 +13,46 @@
+db = SQLAlchemy(app)
+
+
+
+class User(db.Model):
+
+    id = db.Column(db.Integer, primary_key=True)
+    email = db.Column(db.String(50))
+    password = db.Column(db.String(50))
+    cash_in_hand=db.Column(db.Integer,default=500)
+    cash_in_hand = db.Column(db.Integer, default=500)
+    stock = db.relationship('Stock', backref='owner')
+
+
+class Stock(db.Model):
+
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(50))
+    qty = db.Column(db.Integer)
+    owner_id = db.Column(db.Integer, db.ForeignKey('user.id'))
+    price = db.Column(db.Integer)
+
+
+class Transcation(db.Model):
+
+    id = db.Column(db.Integer, primary_key=True)
+    type = db.Column(db.String(50))
+    name = db.Column(db.String(50))
+    qty = db.Column(db.Integer)
+    owner_id = db.Column(db.Integer, db.ForeignKey('user.id'))
+
+
+def getQuotePrice(symbol):
+    base_url = 'https://financialmodelingprep.com/api/v3/stock/real-time-price/'
+    content = urllib.urlopen(base_url + symbol).read()
+    print ("content is ", content)
+    print ('content is ', content)
+    json_content = json.loads(content)
+    print ("m is ", json_content['symbol'], " price", json_content['price'])
+    print ('m is ', json_content['symbol'], ' price',
+           json_content['price'])
+    if content:
+        print("returning the price")
+        return(json_content['price'])
+        return json_content['price']
+    else:
+        return render_template("404.html", display_content="Invalid symbol. No quote available")
+        return render_template('404.html', display_content='Invalid symbol. No quote available')
+
+
+
+'''     *********     '''
+@app.route('/', methods=['GET', 'POST'])
+@app.route('/login', methods=['GET', 'POST'])
+def login():
+@@ -49,149 +61,182 @@ def login():
+    else:
+        email = request.form['email']
+        password = request.form['password']
+        data = User.query.filter_by(email=email, password=password).first()
+        data = User.query.filter_by(email=email,
+                                    password=password).first()
+
+        if data is not None:
+            session['user'] = data.id
+            print(session['user'])
+            return redirect(url_for("home"))
+        return render_template("incorrect_login.html")
+
+
+            print session['user']
+            return redirect(url_for('home'))
+        return render_template('incorrect_login.html')
+
+
+'''     *********     '''
+@app.route('/register/', methods=['GET', 'POST'])
+def register():
+    if request.method == 'POST':
+        new_user = User(email=request.form['email'], password=request.form['password'])
+        new_user = User(email=request.form['email'],
+                        password=request.form['password'])
+        db.session.add(new_user)
+        db.session.commit()
+        return redirect(url_for('login'))
+    return render_template('register.html')
+
+
+
+'''     *********     '''
+@app.route('/home')
+def home():
+    user_id=session["user"]
+    stock = Stock.query.filter_by(owner_id =user_id).first()
+    print(type(stock.name))
+    [str(x) for x in stock.name]
+    print(x)
+    return render_template('home.html',stock=stock, user=user_id)
+
+
+
+'''     *********     '''
+@app.route("/logout", methods=['GET', 'POST'])
+@app.route('/logout', methods=['GET', 'POST'])
+def logout():
+    session.pop('email', None)
+    return redirect(url_for('login'))
+
+
+
+'''     *********     '''
+#############################################################################
+
+@app.route('/home')
+def home():
+    # s = Stock.query.filter_by(owner_id =user_id).first()
+    user_id = session['user']
+    u = User.query.get(user_id)
+    stock = Stock.query.all()
+
+    return render_template('home.html', stock=stock, user=user_id, cash=u.cash_in_hand)
+
+@app.route('/show')
+def show():
+    show_user = User.query.all()
+    return render_template('show.html', show_user=show_user)
+
+
+@app.route('/stock')
+def stock():
+    stock = Stock.query.all()
+    return render_template('show.html', stock=stock)
+
+
+
+'''     *********     '''
+#############################################################################
+
+@app.route('/quote', methods=['GET', 'POST'])
+def quote():
+
+    if request.method == "POST":
+        if not request.form.get("quote"):
+            return render_template("404.html", display_content="No quote provided")
+        symbol=request.form['quote']
+    if request.method == 'POST':
+        if not request.form.get('quote'):
+            return render_template('404.html',
+                                   display_content='No quote provided')
+        symbol = request.form['quote']
+
+        try:
+            quote= getQuotePrice(symbol)
+            return render_template("quote.html", quote=quote)
+            quote = getQuotePrice(symbol)
+            return render_template('quote.html', quote=quote)
+        except:
+                return render_template("404.html", display_content="Invalid symbol. No quote available")
+
+    # GET method
+            return render_template('404.html', display_content='Invalid symbol. No quote available' )
+    else:
+        return render_template("quote.html")
+    # GET method
+        return render_template('quote.html')
+
+
+
+#############################################################################
+
+'''     *********     '''
+@app.route('/buy', methods=['GET', 'POST'])
+def buy():
+    if request.method == "POST":
+    if request.method == 'POST':
+        symbol = request.form['symbol']
+        shares = request.form['shares']
+
+        if not request.form.get("symbol"):
+            return render_template("404.html", display_content="No symbol provided")
+        if not request.form.get('symbol'):
+            return render_template('404.html', display_content='No symbol provided')
+
+        try:
+            price=getQuotePrice(symbol)
+            total_cash_spend= price*int(shares)
+            user_id=session["user"]
+            u=User.query.get(user_id)
+            final_cash_in_hand=u.cash_in_hand-total_cash_spend
+            print("final= ",final_cash_in_hand)
+            if(final_cash_in_hand>0):
+                u.cash_in_hand=final_cash_in_hand
+
+                new_stock = Stock(name=symbol, qty=shares,owner_id=u.id )
+                print("new stock", new_stock)
+                db.session.add(new_stock)
+            price = getQuotePrice(symbol)
+            total_cash_spend = price * int(shares)
+            user_id = session['user']
+            u = User.query.get(user_id)
+            final_cash_in_hand = u.cash_in_hand - total_cash_spend
+            print ('final= ', final_cash_in_hand)
+            if final_cash_in_hand > 0:
+                u.cash_in_hand = final_cash_in_hand
+                s = Stock.query.filter_by(owner_id=user_id, name=symbol).first()
+                if s:
+                    print ('final= ', final_cash_in_hand)
+                    u.cash_in_hand = final_cash_in_hand
+                    final_qty = s.qty + int(shares)
+                    print ('final qty', final_qty)
+                    s.qty = final_qty
+                    db.session.commit()
+                else:
+                    new_stock = Stock(name=symbol, qty=shares,
+                            owner_id=u.id, price=price)
+                    print ('new stock', new_stock)
+                    db.session.add(new_stock)
+                    db.session.commit()
+                    print 'commited'
+                new_transcation = Transcation(type='Bought',name=symbol, qty=shares, owner_id=u.id)
+                db.session.add(new_transcation)
+                db.session.commit()
+                print("commited")
+
+            else:
+                return render_template("404.html", display_content="Insufficient balance in the amount")
+            print("After update: ",u.cash_in_hand)
+            return redirect(url_for("home"))
+        except:
+                return render_template("404.html", display_content="Invalid symbol. No quote available")
+                return render_template('404.html',display_content='Insufficient balance in the amount' )
+
+    # GET method
+            return redirect(url_for('home'))
+        except:
+            return render_template('404.html', display_content='Invalid symbol. No quote available')
+    else:
+        return render_template("buy.html")
+
+    # GET method
+        return render_template('buy.html')
+
+
+
+#############################################################################
+
+'''     *********     '''
+@app.route('/sell', methods=['GET', 'POST'])
+def sell():
+    if request.method == "POST":
+    if request.method == 'POST':
+        symbol = request.form['symbol']
+        shares = request.form['shares']
+
+        if not request.form.get("symbol"):
+            return render_template("404.html", display_content="No symbol provided")
+        if not request.form.get('symbol'):
+            return render_template('404.html',display_content='No symbol provided')
+
+        try:
+            price=getQuotePrice(symbol)
+            total_cash_spend= price*int(shares)
+            user_id=session["user"]
+            u=User.query.get(user_id)
+            final_cash_in_hand=u.cash_in_hand-total_cash_spend
+            print("final= ",final_cash_in_hand)
+            if(final_cash_in_hand>0):
+                u.cash_in_hand=final_cash_in_hand
+            price = getQuotePrice(symbol)
+            total_cash_spend = price * int(shares)
+            user_id = session['user']
+            u = User.query.get(user_id)
+            s = Stock.query.filter_by(owner_id=user_id, name=symbol).first()
+            print (s.name, 'and symbol - ', symbol)
+            if s.name == symbol and s.qty > 0:
+                final_cash_in_hand = u.cash_in_hand + total_cash_spend
+                print ('final= ', final_cash_in_hand)
+                u.cash_in_hand = final_cash_in_hand
+                final_qty = s.qty - int(shares)
+                print ('final qty', final_qty)
+                s.qty = final_qty
+                new_transcation = Transcation(type='Sold', name=symbol, qty=shares, owner_id=u.id)
+                db.session.add(new_transcation)
+                db.session.commit()
+                return redirect(url_for('home'))
+            else:
+                return render_template("404.html", display_content="Insufficient balance in the amount")
+            print(u.cash_in_hand)
+            return redirect(url_for("home"))
+        except:
+                return render_template("404.html", display_content="Invalid symbol. No quote available")
+                return render_template('404.html',display_content='Insufficient shares to sell')
+
+    # GET method
+        except:
+            return render_template('404.html', display_content='123Invalid symbol. No quote available')
+    else:
+        return render_template("sell.html")
+    # GET method
+        return render_template('sell.html')
+
+
+
+#############################################################################
+
+@app.route('/history')
+def history():
+    transcation = Transcation.query.all()
+    user_id = session['user']
+    return render_template('history.html', transcation=transcation, user=user_id)
+
+
+
+#############################################################################
+
+
+if __name__ == '__main__':
+@@ -5,20 +5,22 @@ font-size:40px;
+
+}
+.navbar{
+margin-bottom:5%;
+margin-bottom:1%;
+}
+
+
+
+.content{
+padding:5%;
+padding:2%;
+margin:5%;
+
+}
+
+
+
+.footer {
+  position: fixed;
+  height:10%;
+  top:95%;
+  left: 0;
+  bottom: 0;
+  width: 100%;
